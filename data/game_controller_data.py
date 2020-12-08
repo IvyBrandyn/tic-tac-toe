@@ -1,0 +1,5 @@
+PROMPT_MESSAGE = "Welcome to Tic Tac Toe!"
+ENTER_PLAYERS_MESSAGE = "Please enter number of players! (1 or 2)\n"
+ENTER_PLAYERS_VALUE_ERROR_MESSAGE = "Choice must be either 1 or 2 only"
+TAKE_TURN_MESSAGE = "It's your turn!"
+WINNING_MESSAGE = "IS THE WINNER!"
