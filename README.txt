@@ -1,5 +1,5 @@
 TIC TAC TOE CHALLENGE README
-    This is a coding challenge that I completed for the PlusOne Robotics interview process
+    This is a coding challenge that I completed for an interview process
 
 SETUP
     Local setup will assume you're running MacOS X, Windows 10, or Ubuntu 20.04.
